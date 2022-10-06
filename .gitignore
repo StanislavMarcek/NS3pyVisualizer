@@ -1,0 +1,9 @@
+# niektore
+#eclipse
+.project
+.pydevproject
+# temp testovacie
+testovacie_subory/tmp*
+#py-cache
+utils/__pycache__/*
+api/__pycache__/*
