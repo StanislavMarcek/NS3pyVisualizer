@@ -4,8 +4,11 @@ ns3 vizualizer
 
 apt update
 apt install python3
-apt install python-tk
+apt install python3-tk
 
-pip3 install matplotlib
+# statistika: TODO
+#pip3 install matplotlib
+#pip3 install numpy
 
-python3 main.py
+# run:
+python3 

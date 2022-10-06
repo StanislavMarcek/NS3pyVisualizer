@@ -7,3 +7,4 @@ testovacie_subory/tmp*
 #py-cache
 utils/__pycache__/*
 api/__pycache__/*
+__pycache__/*
